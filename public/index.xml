@@ -10,15 +10,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Rethinking Kinship: Evolution, data, &amp; Behaviour</title>
-      <link>/talk/2019rethinkingkinshipevolutiondatabehaviour/</link>
-      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019rethinkingkinshipevolutiondatabehaviour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>How to use bayestraitr</title>
       <link>/tutorial/bayestraitr/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
@@ -89,16 +80,6 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
       
       <guid>/publication/un-development-2018/un-development/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>

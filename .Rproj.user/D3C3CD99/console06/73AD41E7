@@ -12,4 +12,54 @@ INFO 2019/02/03 10:30:02 i18n not initialized; if you need string translations, 
 INFO 2019/02/03 10:30:02 Using config file: 
 Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
 
+]0;~/Desktop/Projects_Git/SamPassmore[?1034hit033069:SamPassmore sp16194$ [Kit033069:SamPassmore sp16194$ hugo -v
+INFO 2019/03/02 15:02:31 No translation bundle found for default language "en"
+INFO 2019/03/02 15:02:31 Translation func for language en not found, use default.
+INFO 2019/03/02 15:02:31 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2019/03/02 15:02:31 Using config file: 
+Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
+
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v
+INFO 2019/03/02 15:04:53 No translation bundle found for default language "en"
+INFO 2019/03/02 15:04:53 Translation func for language en not found, use default.
+INFO 2019/03/02 15:04:53 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2019/03/02 15:04:53 Using config file: 
+Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
+
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v
+Error: site config value "en-uk" for defaultContentLanguage does not match any language definition
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v
+Error: site config value "en-us" for defaultContentLanguage does not match any language definition
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v
+Error: site config value "en-us" for defaultContentLanguage does not match any language definition
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v
+INFO 2019/03/02 15:05:53 Using config file: 
+[?25lBuilding sites … INFO 2019/03/02 15:05:53 syncing static files to /Users/sp16194/Desktop/Projects_Git/SamPassmore/public/
+INFO 2019/03/02 15:05:53 found taxonomies: map[string]string{"tag":"tags", "category":"categories", "publication_type":"publication_types", "author":"authors"}
+INFO 2019/03/02 15:05:53 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2019/03/02 15:05:53 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2019/03/02 15:05:53 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2019/03/02 15:05:53 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2019/03/02 15:05:53 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2019/03/02 15:05:53 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/project/page/1/index.html" translated to "project/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2019/03/02 15:05:54 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 77  
+  Paginator pages  |  0  
+  Non-page files   | 14  
+  Static files     | 10  
+  Processed images |  8  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 1770 ms
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ 
