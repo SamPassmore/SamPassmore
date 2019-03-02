@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Sam Passmore</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Sam Passmore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoff Kushnick</title>
+      <link>/authors/geoff-kushnick/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/geoff-kushnick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luke J Matthews</title>
+      <link>/authors/luke-j-matthews/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/luke-j-matthews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul M Richard</title>
+      <link>/authors/paul-m-richard/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/paul-m-richard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quentin D Atkinson</title>
+      <link>/authors/quentin-d-atkinson/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/quentin-d-atkinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roland B Sookias</title>
+      <link>/authors/roland-b-sookias/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/roland-b-sookias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russell D Gray</title>
+      <link>/authors/russell-d-gray/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/russell-d-gray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Passmore</title>
+      <link>/authors/sam-passmore/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/sam-passmore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon J Greenhill</title>
+      <link>/authors/simon-j-greenhill/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/simon-j-greenhill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ties Coomber</title>
+      <link>/authors/ties-coomber/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ties-coomber/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

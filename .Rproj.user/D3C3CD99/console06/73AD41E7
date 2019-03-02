@@ -1,0 +1,15 @@
+]0;~/Desktop/Projects_Git/SamPassmore[?1034hit033069:SamPassmore sp16194$ [Kit033069:SamPassmore sp16194$ hugo -v
+INFO 2019/02/03 10:18:10 No translation bundle found for default language "en"
+INFO 2019/02/03 10:18:10 Translation func for language en not found, use default.
+INFO 2019/02/03 10:18:10 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2019/02/03 10:18:10 Using config file: 
+Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
+
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v
+INFO 2019/02/03 10:30:02 No translation bundle found for default language "en"
+INFO 2019/02/03 10:30:02 Translation func for language en not found, use default.
+INFO 2019/02/03 10:30:02 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2019/02/03 10:30:02 Using config file: 
+Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
+
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Sam Passmore</title>
+    <link>/tutorial/</link>
+    <description>Recent content in Overview on Sam Passmore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use bayestraitr</title>
+      <link>/tutorial/bayestraitr/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tutorial/bayestraitr/</guid>
+      <description>I&amp;rsquo;ve been using BayesTraits for the last year or so, and had developed some packages to make it easy to create data for BayesTraits and to read in the output - which I&amp;rsquo;ve put into the R package bayestraitr.
+You can check out the code and some more examples on the github page
+Here I will walk through how to use it!
+Installing To install this package run this line:</description>
+    </item>
+    
+  </channel>
+</rss>

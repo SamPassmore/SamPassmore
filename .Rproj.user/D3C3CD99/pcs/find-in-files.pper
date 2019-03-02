@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/Desktop/Projects_Git/SamPassmore",
+        "query" : "article-metadata",
+        "regex" : false
+    }
+}
