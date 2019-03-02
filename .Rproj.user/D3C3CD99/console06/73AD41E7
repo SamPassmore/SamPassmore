@@ -62,4 +62,170 @@ INFO 2019/03/02 15:05:54 Alias "/tags/regression/page/1/index.html" translated t
   Cleaned          |  0  
 
 Total in 1770 ms
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -v-v
+Error: unknown flag: --v
+
+Usage:
+  hugo [flags]
+  hugo [command]
+
+Available Commands:
+  check       Contains some verification checks
+  config      Print the site configuration
+  convert     Convert your content to different formats
+  env         Print Hugo version and environment info
+  gen         A collection of several useful generators.
+  help        Help about any command
+  import      Import your site from others.
+  list        Listing out various types of content
+  new         Create new content for your site
+  server      A high performance webserver
+  version     Print the version number of Hugo
+
+Flags:
+  -b, --baseURL string         hostname (and path) to the root, e.g. http://spf13.com/
+  -D, --buildDrafts            include content marked as draft
+  -E, --buildExpired           include expired content
+  -F, --buildFuture            include content with publishdate in the future
+      --cacheDir string        filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
+      --cleanDestinationDir    remove files from destination not found in static directories
+      --config string          config file (default is path/config.yaml|json|toml)
+      --configDir string       config dir (default "config")
+  -c, --contentDir string      filesystem path to content directory
+      --debug                  debug output
+  -d, --destination string     filesystem path to write files to
+      --disableKinds strings   disable different kind of pages (home, RSS etc.)
+      --enableGitInfo          add Git revision, date and author info to the pages
+  -e, --environment string     build environment
+      --forceSyncStatic        copy all files when static is changed.
+      --gc                     enable to run some cleanup tasks (remove unused cache files) after the build
+  -h, --help                   help for hugo
+      --i18n-warnings          print missing translations
+      --ignoreCache            ignores the cache directory
+  -l, --layoutDir string       filesystem path to layout directory
+      --log                    enable Logging
+      --logFile string         log File path (if set, logging enabled automatically)
+      --minify                 minify any supported output format (HTML, XML etc.)
+      --noChmod                don't sync permission mode of files
+      --noTimes                don't sync modification time of files
+      --quiet                  build in quiet mode
+      --renderToMemory         render to memory (only useful for benchmark testing)
+  -s, --source string          filesystem path to read files relative from
+      --stepAnalysis           display memory and timing of different steps of the program
+      --templateMetrics        display metrics about template executions
+      --templateMetricsHints   calculate some improvement hints when combined with --templateMetrics
+  -t, --theme strings          themes to use (located in /themes/THEMENAME/)
+      --themesDir string       filesystem path to themes directory
+  -v, --verbose                verbose output
+      --verboseLog             verbose logging
+  -w, --watch                  watch filesystem for changes and recreate as needed
+
+Use "hugo [command] --help" for more information about a command.
+
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -version
+INFO 2019/03/02 15:09:16 Using config file: 
+[?25lBuilding sites … INFO 2019/03/02 15:09:16 syncing static files to /Users/sp16194/Desktop/Projects_Git/SamPassmore/public/
+INFO 2019/03/02 15:09:16 found taxonomies: map[string]string{"author":"authors", "tag":"tags", "category":"categories", "publication_type":"publication_types"}
+INFO 2019/03/02 15:09:16 Alias "/post/page/1/index.html" translated to "post/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/publication_types/2/page/1/index.html" translated to "publication_types/2/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/academic/page/1/index.html" translated to "tags/academic/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/categories/page/1/index.html" translated to "categories/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/deep-learning/page/1/index.html" translated to "tags/deep-learning/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/demo/page/1/index.html" translated to "tags/demo/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/project/page/1/index.html" translated to "project/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/publication_types/page/1/index.html" translated to "publication_types/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/categories/r/page/1/index.html" translated to "categories/r/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/r-markdown/page/1/index.html" translated to "tags/r-markdown/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/page/1/index.html" translated to "tags/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/plot/page/1/index.html" translated to "tags/plot/page/1/index.html"
+INFO 2019/03/02 15:09:16 Alias "/tags/regression/page/1/index.html" translated to "tags/regression/page/1/index.html"
+[?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 77  
+  Paginator pages  |  0  
+  Non-page files   | 14  
+  Static files     | 10  
+  Processed images | 10  
+  Aliases          | 13  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 649 ms
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo -version[K[K[K[K[K[K[K[K-h
+hugo is the main command, used to build your Hugo site.
+
+Hugo is a Fast and Flexible Static Site Generator
+built with love by spf13 and friends in Go.
+
+Complete documentation is available at http://gohugo.io/.
+
+Usage:
+  hugo [flags]
+  hugo [command]
+
+Available Commands:
+  check       Contains some verification checks
+  config      Print the site configuration
+  convert     Convert your content to different formats
+  env         Print Hugo version and environment info
+  gen         A collection of several useful generators.
+  help        Help about any command
+  import      Import your site from others.
+  list        Listing out various types of content
+  new         Create new content for your site
+  server      A high performance webserver
+  version     Print the version number of Hugo
+
+Flags:
+  -b, --baseURL string         hostname (and path) to the root, e.g. http://spf13.com/
+  -D, --buildDrafts            include content marked as draft
+  -E, --buildExpired           include expired content
+  -F, --buildFuture            include content with publishdate in the future
+      --cacheDir string        filesystem path to cache directory. Defaults: $TMPDIR/hugo_cache/
+      --cleanDestinationDir    remove files from destination not found in static directories
+      --config string          config file (default is path/config.yaml|json|toml)
+      --configDir string       config dir (default "config")
+  -c, --contentDir string      filesystem path to content directory
+      --debug                  debug output
+  -d, --destination string     filesystem path to write files to
+      --disableKinds strings   disable different kind of pages (home, RSS etc.)
+      --enableGitInfo          add Git revision, date and author info to the pages
+  -e, --environment string     build environment
+      --forceSyncStatic        copy all files when static is changed.
+      --gc                     enable to run some cleanup tasks (remove unused cache files) after the build
+  -h, --help                   help for hugo
+      --i18n-warnings          print missing translations
+      --ignoreCache            ignores the cache directory
+  -l, --layoutDir string       filesystem path to layout directory
+      --log                    enable Logging
+      --logFile string         log File path (if set, logging enabled automatically)
+      --minify                 minify any supported output format (HTML, XML etc.)
+      --noChmod                don't sync permission mode of files
+      --noTimes                don't sync modification time of files
+      --quiet                  build in quiet mode
+      --renderToMemory         render to memory (only useful for benchmark testing)
+  -s, --source string          filesystem path to read files relative from
+      --stepAnalysis           display memory and timing of different steps of the program
+      --templateMetrics        display metrics about template executions
+      --templateMetricsHints   calculate some improvement hints when combined with --templateMetrics
+  -t, --theme strings          themes to use (located in /themes/THEMENAME/)
+      --themesDir string       filesystem path to themes directory
+  -v, --verbose                verbose output
+      --verboseLog             verbose logging
+  -w, --watch                  watch filesystem for changes and recreate as needed
+
+Use "hugo [command] --help" for more information about a command.
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ [Kit033069:SamPassmore sp16194$ hugo version
+Hugo Static Site Generator v0.54.0/extended darwin/amd64 BuildDate: unknown
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ ho[Kugo0.54
+bash: hugo0.54: command not found
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo0.54v0.54
+bash: hugov0.54: command not found
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugov0.54[K[K[K[K.54
+bash: hugov.54: command not found
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugov.54[K[K[K[K_0.54
+bash: hugo_0.54: command not found
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo_0.54v0.54
+bash: hugo_v0.54: command not found
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ 

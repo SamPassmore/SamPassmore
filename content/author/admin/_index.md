@@ -33,7 +33,7 @@ interests = [
 [[education.courses]]
   course = "MSc Psychology"
   institution = "University of Auckland"
-  year = 2004
+  year = 2014
 
 [[education.courses]]
   course = "BSc(Hons) in Statistics"
