@@ -228,4 +228,11 @@ bash: hugov.54: command not found
 bash: hugo_0.54: command not found
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ hugo_0.54v0.54
 bash: hugo_v0.54: command not found
+[Kit033069:SamPassmore sp16194$ hugo -v
+INFO 2019/03/02 23:08:21 No translation bundle found for default language "en"
+INFO 2019/03/02 23:08:21 Translation func for language en not found, use default.
+INFO 2019/03/02 23:08:21 i18n not initialized; if you need string translations, check that you have a bundle in /i18n that matches the site language or the default language.
+INFO 2019/03/02 23:08:21 Using config file: 
+Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
+
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ 
