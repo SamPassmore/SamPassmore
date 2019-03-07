@@ -92,7 +92,7 @@ interests = [
 
 +++
 
-Hi! I'm Sam Passmore. I'm a PhD student at the University of Bristol and a member of the VariKin project studying the evolution of kinship - [check us out here](https://excd.org/)! I use quantitative methods to explore the diversity and evolution of kinship systems seen around the world. Previously I studied and worked for [Quentin Atkinson](www.quentinatkinson.com) at the University of Auckland - the city where I grew up. Outside of academia, I have worked as a Data Scientist at [Pingar International](www.pingar.com).
+Hi! I'm Sam Passmore. I'm a PhD student at the University of Bristol and a member of Fiona Jordan's VariKin project studying the evolution of kinship - [check us out here](https://excd.org/)! I use quantitative methods to explore the diversity and evolution of kinship systems seen around the world. Previously I studied and worked for [Quentin Atkinson](https://www.quentinatkinson.com) at the University of Auckland - the city where I grew up. Outside of academia, I have worked as a Data Scientist at [Pingar International](https://www.pingar.com).
 
 I am also big into programming with R.
 
