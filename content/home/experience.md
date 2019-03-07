@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Data scientist"
   company = "Pingar"
-  company_url = "www.pingar.com"
+  company_url = "https://www.pingar.com"
   location = "Auckland, New Zealand"
   date_start = "2015-04-01"
   date_end = "2016-04-01"
