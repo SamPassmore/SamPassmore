@@ -235,4 +235,37 @@ INFO 2019/03/02 23:08:21 i18n not initialized; if you need string translations, 
 INFO 2019/03/02 23:08:21 Using config file: 
 Error: Unable to find theme Directory: /Users/sp16194/Desktop/Projects_Git/SamPassmore/themes/academic
 
-]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ 
+]0;~/Desktop/Projects_Git/SamPassmore[?1034hit033069:SamPassmore sp16194$ [Kit033069:SamPassmore sp16194$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rhistory[m
+	[31mmodified:   .Rproj.user/D3C3CD99/console06/73AD41E7[m
+	[31mmodified:   .Rproj.user/D3C3CD99/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/D3C3CD99/pcs/files-pane.pper[m
+	[31mmodified:   .Rproj.user/D3C3CD99/pcs/find-in-files.pper[m
+	[31mmodified:   .Rproj.user/D3C3CD99/pcs/source-pane.pper[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/13C1E7F7[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/37A0A8C[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/3A636C8B[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/5120D866[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/DDF80A3F[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/F002F745[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/INDEX[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   config.toml[m
+	[31mmodified:   content/talk/write-talk-files.R[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mbuild.R[m
+	[31mcontent/publication/base-text.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git add .
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git commit -am ''u'p'd'a't'e'

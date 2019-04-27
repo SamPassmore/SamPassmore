@@ -9,6 +9,7 @@ object = gs_url("https://docs.google.com/spreadsheets/d/1V-VWoaEWJAal20WTay_1wF9
 ## Assuming I always want the first sheet 
 talks = gs_read(object, check.names = TRUE, ws = 1)
 talks = subset(talks, talks$Type == "Talk")
+today = Sys.Date()
 
 for(i in 1:nrow(talks)){
   row = talks[i,]
@@ -47,6 +48,7 @@ featured = false
     paste0(., collapse = "") %>% 
     paste0("content/talk/", year, ., ".md")
   fileConn<-file(fname)
-  writeLines(file, fileConn)
-  close(fileConn)
+  if(!file.exists(fname))
+    writeLines(file, fileConn)
+    close(fileConn)
 }
