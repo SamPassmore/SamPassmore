@@ -1,6 +1,6 @@
 +++
-title = "A phylogenetic approach to kinship"
-date = "2018-08-23"  # Schedule page publish date.
+title = "Patterns & Variation in the use of kin-terms across languages"
+date = "2017-04-05"  # Schedule page publish date.
 draft = false
            
 all_day = false
@@ -8,10 +8,10 @@ all_day = false
 authors = []
            
 # Name of event and optional event URL.
-event = "Cultural Evolution Society"
+event = "EHBEA"
            
 # Location of event.
-location = "Tempe AZ, USA"
+location = "École Normale Supérieur"
            
 # Is this a featured talk? (true/false)
 featured = false
