@@ -269,3 +269,47 @@ Untracked files:
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git add .
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git commit -am ''u'p'd'a't'e'
+[master 2a3c7ce] update
+ 19 files changed, 192 insertions(+), 43 deletions(-)
+ rewrite .Rproj.user/D3C3CD99/console06/INDEX001 (86%)
+ create mode 100644 build.R
+ create mode 100644 content/publication/base-text.txt
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git pull
+Already up to date.
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git push
+Enumerating objects: 58, done.
+Counting objects:   1% (1/58)   Counting objects:   3% (2/58)   Counting objects:   5% (3/58)   Counting objects:   6% (4/58)   Counting objects:   8% (5/58)   Counting objects:  10% (6/58)   Counting objects:  12% (7/58)   Counting objects:  13% (8/58)   Counting objects:  15% (9/58)   Counting objects:  17% (10/58)   Counting objects:  18% (11/58)   Counting objects:  20% (12/58)   Counting objects:  22% (13/58)   Counting objects:  24% (14/58)   Counting objects:  25% (15/58)   Counting objects:  27% (16/58)   Counting objects:  29% (17/58)   Counting objects:  31% (18/58)   Counting objects:  32% (19/58)   Counting objects:  34% (20/58)   Counting objects:  36% (21/58)   Counting objects:  37% (22/58)   Counting objects:  39% (23/58)   Counting objects:  41% (24/58)   Counting objects:  43% (25/58)   Counting objects:  44% (26/58)   Counting objects:  46% (27/58)   Counting objects:  48% (28/58)   Counting objects:  50% (29/58)   Counting objects:  51% (30/58)   Counting objects:  53% (31/58)   Counting objects:  55% (32/58)   Counting objects:  56% (33/58)   Counting objects:  58% (34/58)   Counting objects:  60% (35/58)   Counting objects:  62% (36/58)   Counting objects:  63% (37/58)   Counting objects:  65% (38/58)   Counting objects:  67% (39/58)   Counting objects:  68% (40/58)   Counting objects:  70% (41/58)   Counting objects:  72% (42/58)   Counting objects:  74% (43/58)   Counting objects:  75% (44/58)   Counting objects:  77% (45/58)   Counting objects:  79% (46/58)   Counting objects:  81% (47/58)   Counting objects:  82% (48/58)   Counting objects:  84% (49/58)   Counting objects:  86% (50/58)   Counting objects:  87% (51/58)   Counting objects:  89% (52/58)   Counting objects:  91% (53/58)   Counting objects:  93% (54/58)   Counting objects:  94% (55/58)   Counting objects:  96% (56/58)   Counting objects:  98% (57/58)   Counting objects: 100% (58/58)   Counting objects: 100% (58/58), done.
+Delta compression using up to 8 threads.
+Compressing objects:   3% (1/27)   Compressing objects:   7% (2/27)   Compressing objects:  11% (3/27)   Compressing objects:  14% (4/27)   Compressing objects:  18% (5/27)   Compressing objects:  22% (6/27)   Compressing objects:  25% (7/27)   Compressing objects:  29% (8/27)   Compressing objects:  33% (9/27)   Compressing objects:  37% (10/27)   Compressing objects:  40% (11/27)   Compressing objects:  44% (12/27)   Compressing objects:  48% (13/27)   Compressing objects:  51% (14/27)   Compressing objects:  55% (15/27)   Compressing objects:  59% (16/27)   Compressing objects:  62% (17/27)   Compressing objects:  66% (18/27)   Compressing objects:  70% (19/27)   Compressing objects:  74% (20/27)   Compressing objects:  77% (21/27)   Compressing objects:  81% (22/27)   Compressing objects:  85% (23/27)   Compressing objects:  88% (24/27)   Compressing objects:  92% (25/27)   Compressing objects:  96% (26/27)   Compressing objects: 100% (27/27)   Compressing objects: 100% (27/27), done.
+Writing objects:   3% (1/30)   Writing objects:   6% (2/30)   Writing objects:  10% (3/30)   Writing objects:  13% (4/30)   Writing objects:  16% (5/30)   Writing objects:  20% (6/30)   Writing objects:  23% (7/30)   Writing objects:  26% (8/30)   Writing objects:  30% (9/30)   Writing objects:  33% (10/30)   Writing objects:  36% (11/30)   Writing objects:  40% (12/30)   Writing objects:  43% (13/30)   Writing objects:  46% (14/30)   Writing objects:  50% (15/30)   Writing objects:  53% (16/30)   Writing objects:  56% (17/30)   Writing objects:  60% (18/30)   Writing objects:  63% (19/30)   Writing objects:  66% (20/30)   Writing objects:  70% (21/30)   Writing objects:  73% (22/30)   Writing objects:  76% (23/30)   Writing objects:  80% (24/30)   Writing objects:  83% (25/30)   Writing objects:  86% (26/30)   Writing objects:  90% (27/30)   Writing objects:  93% (28/30)   Writing objects:  96% (29/30)   Writing objects: 100% (30/30)   Writing objects: 100% (30/30), 3.59 KiB | 72.00 KiB/s, done.
+Total 30 (delta 17), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/17)   [Kremote: Resolving deltas:   5% (1/17)   [Kremote: Resolving deltas:  11% (2/17)   [Kremote: Resolving deltas:  17% (3/17)   [Kremote: Resolving deltas:  23% (4/17)   [Kremote: Resolving deltas:  29% (5/17)   [Kremote: Resolving deltas:  35% (6/17)   [Kremote: Resolving deltas:  41% (7/17)   [Kremote: Resolving deltas:  47% (8/17)   [Kremote: Resolving deltas:  52% (9/17)   [Kremote: Resolving deltas:  58% (10/17)   [Kremote: Resolving deltas:  64% (11/17)   [Kremote: Resolving deltas:  70% (12/17)   [Kremote: Resolving deltas:  76% (13/17)   [Kremote: Resolving deltas:  82% (14/17)   [Kremote: Resolving deltas:  88% (15/17)   [Kremote: Resolving deltas:  94% (16/17)   [Kremote: Resolving deltas: 100% (17/17)   [Kremote: Resolving deltas: 100% (17/17), completed with 17 local objects.[K
+To https://github.com/SamPassmore/SamPassmore.git
+   b4e9d3e..2a3c7ce  master -> master
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git pushllcommit -am 'update'add .[Kstatus
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/D3C3CD99/console06/73AD41E7[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/3A636C8B[m
+	[31mmodified:   content/talk/write-talk-files.R[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mcontent/talk/2017IsitweirdtomarryyourcousinCrossculturalviewsonkinshipuniversityofbristol.md[m
+	[31mcontent/talk/2017Testingtheassumptionsofkinshipmaxplanckinstitueforthescienceofhumanhistory.md[m
+	[31mcontent/talk/2018Aphylogeneticapproachtokinshiparizonastateuniversity.md[m
+	[31mcontent/talk/2018Aphylogeneticapproachtokinshipuniversityofbristol.md[m
+	[31mcontent/talk/2018Aphylogeneticapproachtokinshipuniversityoftartu.md[m
+	[31mcontent/talk/2019RethinkingKinshipEvolutiondataBehaviourmaxplanckinstitueforthesocialanthropology.md[m
+	[31mcontent/talk/2019RethinkingKinshipEvolutiondataBehaviouruniversityofauckland.md[m
+	[31mcontent/talk/2019RethinkingKinshipEvolutiondataBehaviouruniversityofwaikato.md[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git status[2Ppushllcommit -am 'update'pull[Kshstatus[Kgit add .
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git commit -am ''f'i'x' '[1P'e'd' 't'a'l'k' 'o'v'e'r'r'i'd'i' [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn''g'

@@ -19,6 +19,7 @@ for(i in 1:nrow(talks)){
   year = lubridate::year(date)
   event = row$Event
   location = row$Location
+  institute = row$Institute
   
   file = stringr::str_glue('+++
 title = "{title}"
@@ -33,7 +34,7 @@ authors = []
 event = "{event}"
            
 # Location of event.
-location = "{location}"
+location = "{institute}"
            
 # Is this a featured talk? (true/false)
 featured = false
@@ -41,12 +42,14 @@ featured = false
 +++
 ')
   
-  
+  institute_strip = institute %>% 
+    tolower() %>%
+    str_remove_all("[:space:]")
   fname = title %>% 
     str_extract_all('[:alnum:]') %>% 
     unlist(.) %>%
     paste0(., collapse = "") %>% 
-    paste0("content/talk/", year, ., ".md")
+    paste0("content/talk/", year, ., institute_strip,".md")
   fileConn<-file(fname)
   if(!file.exists(fname))
     writeLines(file, fileConn)
