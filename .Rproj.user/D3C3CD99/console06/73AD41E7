@@ -396,3 +396,36 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git commit -am ''f'i'x'e's'
+[master dc965c3] fixes
+ 4 files changed, 33 insertions(+), 22 deletions(-)
+ delete mode 100644 content/talk/2019RethinkingKinshipEvolutiondataBehaviourmaxplanckinstitueforthesocialanthropology.md
+]0;~/Desktop/Projects_Git/SamPassmoreit033069:SamPassmore sp16194$ git push
+Enumerating objects: 27, done.
+Counting objects:   3% (1/27)   Counting objects:   7% (2/27)   Counting objects:  11% (3/27)   Counting objects:  14% (4/27)   Counting objects:  18% (5/27)   Counting objects:  22% (6/27)   Counting objects:  25% (7/27)   Counting objects:  29% (8/27)   Counting objects:  33% (9/27)   Counting objects:  37% (10/27)   Counting objects:  40% (11/27)   Counting objects:  44% (12/27)   Counting objects:  48% (13/27)   Counting objects:  51% (14/27)   Counting objects:  55% (15/27)   Counting objects:  59% (16/27)   Counting objects:  62% (17/27)   Counting objects:  66% (18/27)   Counting objects:  70% (19/27)   Counting objects:  74% (20/27)   Counting objects:  77% (21/27)   Counting objects:  81% (22/27)   Counting objects:  85% (23/27)   Counting objects:  88% (24/27)   Counting objects:  92% (25/27)   Counting objects:  96% (26/27)   Counting objects: 100% (27/27)   Counting objects: 100% (27/27), done.
+Delta compression using up to 8 threads.
+Compressing objects:   8% (1/12)   Compressing objects:  16% (2/12)   Compressing objects:  25% (3/12)   Compressing objects:  33% (4/12)   Compressing objects:  41% (5/12)   Compressing objects:  50% (6/12)   Compressing objects:  58% (7/12)   Compressing objects:  66% (8/12)   Compressing objects:  75% (9/12)   Compressing objects:  83% (10/12)   Compressing objects:  91% (11/12)   Compressing objects: 100% (12/12)   Compressing objects: 100% (12/12), done.
+Writing objects:   7% (1/14)   Writing objects:  14% (2/14)   Writing objects:  21% (3/14)   Writing objects:  28% (4/14)   Writing objects:  35% (5/14)   Writing objects:  42% (6/14)   Writing objects:  50% (7/14)   Writing objects:  57% (8/14)   Writing objects:  64% (9/14)   Writing objects:  71% (10/14)   Writing objects:  78% (11/14)   Writing objects:  85% (12/14)   Writing objects:  92% (13/14)   Writing objects: 100% (14/14)   Writing objects: 100% (14/14), 1.71 KiB | 1.71 MiB/s, done.
+Total 14 (delta 8), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/8)   [Kremote: Resolving deltas:  12% (1/8)   [Kremote: Resolving deltas:  25% (2/8)   [Kremote: Resolving deltas:  37% (3/8)   [Kremote: Resolving deltas:  50% (4/8)   [Kremote: Resolving deltas:  62% (5/8)   [Kremote: Resolving deltas:  75% (6/8)   [Kremote: Resolving deltas:  87% (7/8)   [Kremote: Resolving deltas: 100% (8/8)   [Kremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[K
+To https://github.com/SamPassmore/SamPassmore.git
+   807eadb..dc965c3  master -> master
+[Keduroam-170-87:SamPassmore sp16194$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rhistory[m
+	[31mmodified:   .Rproj.user/D3C3CD99/console06/73AD41E7[m
+	[31mmodified:   .Rproj.user/D3C3CD99/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/D3C3CD99/pcs/files-pane.pper[m
+	[31mmodified:   .Rproj.user/D3C3CD99/pcs/source-pane.pper[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/3A636C8B[m
+	[31mmodified:   .Rproj.user/D3C3CD99/sources/prop/INDEX[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   index.html[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Projects_Git/SamPassmoreeduroam-170-87:SamPassmore sp16194$ git commit -am ;;[K[K''a'd'd'i'n'g' 'a'n'a'l'y't'i'c's' 't'r'a'c' [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ck''i'n'g' '[1P'
