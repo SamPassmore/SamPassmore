@@ -13,7 +13,7 @@ role = "PhD Candidate"
 organizations = [ { name = "University of Bristol", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am interested in what behaviours we do because it was always done that way, and what behaviours we do because we think it is a good idea."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 

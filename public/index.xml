@@ -10,6 +10,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cultured Scene</title>
+      <link>/post/2019-09-10-culturedscene/</link>
+      <pubDate>Tue, 10 Sep 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2019-09-10-culturedscene/</guid>
+      <description>
+
+
+&lt;p&gt;I wrote a piece for the December issue of Cultured Scene!
+It is a short(ish) piece on why kinship is interesting, why we need to take a quantitative approach to studying it, and what I have done so far in my PhD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eslrsociety.org/2018/12/27/issue-4-december-2018/&#34;&gt;Check it out here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Social Practice and Shared History, Not Social Scale, Structure Cross‐Cultural Complexity in Kinship Systems</title>
       <link>/publication/raczpassmorejordan2019/raczpassmorejordan/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0100</pubDate>
@@ -179,15 +194,6 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/talk/2017isitweirdtomarryyourcousincrossculturalviewsonkinshipuniversityofbristol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patterns &amp; Variation in the use of kin-terms across languages</title>
-      <link>/talk/2017patternsvariationintheuseofkintermsacrosslanguages%C3%A9colenormalesup%C3%A9rieur/</link>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017patternsvariationintheuseofkintermsacrosslanguages%C3%A9colenormalesup%C3%A9rieur/</guid>
       <description></description>
     </item>
     
