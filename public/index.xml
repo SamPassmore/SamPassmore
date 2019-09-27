@@ -171,24 +171,6 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
     </item>
     
     <item>
-      <title>Deep cultural ancestry &amp; human development: News coverage</title>
-      <link>/post/2019-09-27-undeephistory/</link>
-      <pubDate>Wed, 11 Apr 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2019-09-27-undeephistory/</guid>
-      <description>
-
-
-&lt;p&gt;A &lt;a href=&#34;https://royalsocietypublishing.org/doi/full/10.1098/rsos.171411&#34;&gt;paper I published&lt;/a&gt; with Roland Sookias and Quentin Atkinson was covered in the news!&lt;/p&gt;
-&lt;p&gt;The paper wasn’t really covered accurately, but it still was exciting!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.thesun.co.uk/news/6025966/communism-makes-countries-poorer-and-less-healthy-for-decades-scientists-prove-in-landmark-study/&#34;&gt;&lt;em&gt;The Sun&lt;/em&gt;&lt;/a&gt; :(&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy/&#34;&gt;&lt;em&gt;New York Post&lt;/em&gt;&lt;/a&gt; :(&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The Times&lt;/em&gt; :(
-&lt;img src=&#34;/post/2019-09-27-UNdeephistory/sookiasetal-Timesarticle.jpg&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Testing the assumptions of kinship</title>
       <link>/talk/2017testingtheassumptionsofkinshipmaxplanckinstitueforthescienceofhumanhistory/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
@@ -203,6 +185,15 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/talk/2017sharedancestryshowskinshipisconserveduniversityofbirmingham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is it weird to marry your cousin? Cross-cultural views on kinship</title>
+      <link>/talk/2017isitweirdtomarryyourcousincrossculturalviewsonkinshipuniversityofbristol/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017isitweirdtomarryyourcousincrossculturalviewsonkinshipuniversityofbristol/</guid>
       <description></description>
     </item>
     
