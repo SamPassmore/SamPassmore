@@ -1,0 +1,18 @@
+---
+title: "Deep cultural ancestry & human development: News coverage"
+author: "Sam Passmore"
+date: 2018-04-11T21:13:14-05:00
+output: html_document
+categories: ["Outreach"]
+---
+
+A [paper I published](https://royalsocietypublishing.org/doi/full/10.1098/rsos.171411) with Roland Sookias and Quentin Atkinson was covered in the news! 
+
+The paper wasn't really covered accurately, but it still was exciting! 
+
+[_The Sun_](https://www.thesun.co.uk/news/6025966/communism-makes-countries-poorer-and-less-healthy-for-decades-scientists-prove-in-landmark-study/) :(
+
+[_New York Post_](https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy/) :(
+
+_The Times_ :(
+![](/post/2019-09-27-UNdeephistory/sookiasetal-Timesarticle.jpg)
