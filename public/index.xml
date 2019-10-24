@@ -152,16 +152,6 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A phylogenetic approach to kinship</title>
       <link>/talk/2018aphylogeneticapproachtokinshipuniversityoftartu/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
@@ -203,6 +193,15 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/talk/2017sharedancestryshowskinshipisconserveduniversityofbirmingham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is it weird to marry your cousin? Cross-cultural views on kinship</title>
+      <link>/talk/2017isitweirdtomarryyourcousincrossculturalviewsonkinshipuniversityofbristol/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017isitweirdtomarryyourcousincrossculturalviewsonkinshipuniversityofbristol/</guid>
       <description></description>
     </item>
     
