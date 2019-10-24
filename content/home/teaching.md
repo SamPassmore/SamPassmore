@@ -20,7 +20,8 @@ I have given guest lectures for the following courses at the University of Brist
 - ARCH20058: Evolution \& Human behaviour
 - ARCH20048: Anthropological Methods
 
-I am a teaching instructor for the following courses at the University of Bristol:
+I have been a teaching assistant for the following courses at the University of Bristol:
 
+- ARCH10019: Kin, Friends, Lovers, & Others
 - ARCH20058: Evolution \& Human behaviour
 - ARCH20048: Anthropological Methods
