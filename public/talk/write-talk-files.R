@@ -1,13 +1,15 @@
 #!/usr/bin/Rscript
 
 ## Script to update the talks part of my website
-library(googlesheets)
+library(googlesheets4)
 library(stringr)
 
-gs_auth()
-object = gs_url("https://docs.google.com/spreadsheets/d/1V-VWoaEWJAal20WTay_1wF9uCBJT8kOstegjNuWvLrU/edit#gid=0")
-## Assuming I always want the first sheet 
-talks = gs_read(object, check.names = TRUE, ws = 1)
+url = "https://docs.google.com/spreadsheets/d/11BSx_rj4XqgrxLuw7asd2etWiNzDqgNskqYhQg3vJhw/edit#gid=0"
+
+# authenticate
+sheets_auth()
+
+talks = read_sheet(url)
 talks = subset(talks, talks$Type == "Talk" | talks$Type == "Poster")
 today = Sys.Date()
 
@@ -15,7 +17,7 @@ for(i in 1:nrow(talks)){
   row = talks[i,]
   
   title = row$Title
-  date = lubridate::dmy(row$Date)
+  date = lubridate::ymd(row$Date)
   year = lubridate::year(date)
   event = row$Event
   type = row$Type
