@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Kinspace: new approach to kinship terminology diversity (Cancelled due to COVID-19)</title>
+      <link>/talk/2020kinspacenewapproachtokinshipterminologydiversitycancelledduetocovid19jagiellonianuniversity/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020kinspacenewapproachtokinshipterminologydiversitycancelledduetocovid19jagiellonianuniversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Usage frequency and lexical class determine the evolution of kinship terms in Indo-European</title>
       <link>/publication/2019-kinterm-frequency/2019-kinterm-frequency/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
@@ -29,10 +38,10 @@
     
     <item>
       <title>No universals in the evolution of kinship terminologies</title>
-      <link>/talk/2019nouniversalsintheevolutionofkinshipterminologiesmaxplanckinstituteforthescienceofhumanhistory/</link>
+      <link>/talk/2019nouniversalsintheevolutionofkinshipterminologiesmaxplanckinstitueforthescienceofhumanhistory/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/talk/2019nouniversalsintheevolutionofkinshipterminologiesmaxplanckinstituteforthescienceofhumanhistory/</guid>
+      <guid>/talk/2019nouniversalsintheevolutionofkinshipterminologiesmaxplanckinstitueforthescienceofhumanhistory/</guid>
       <description></description>
     </item>
     
@@ -195,15 +204,6 @@ bt_write(tree = tree, data = data, variables = &#39;trait1&#39;, filename = &#39
 &lt;p&gt;&lt;em&gt;The Times&lt;/em&gt; :(
 &lt;img src=&#34;/post/2019-09-27-UNdeephistory/sookiasetal-Timesarticle.jpg&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Testing the assumptions of kinship</title>
-      <link>/talk/2017testingtheassumptionsofkinshipmaxplanckinstitueforthescienceofhumanhistory/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2017testingtheassumptionsofkinshipmaxplanckinstitueforthescienceofhumanhistory/</guid>
-      <description></description>
     </item>
     
   </channel>

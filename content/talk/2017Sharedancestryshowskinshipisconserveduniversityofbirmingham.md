@@ -8,7 +8,7 @@ all_day = false
 authors = []
            
 # Name of event and optional event URL.
-event = "Cumulative Culture"
+event = "Culture Conference"
            
 # Location of event.
 location = "University of Birmingham"

@@ -8,7 +8,7 @@ all_day = false
 authors = []
            
 # Name of event and optional event URL.
-event = "PGR Summer Series"
+event = "PGR Summer series"
            
 # Location of event.
 location = "University of Bristol"

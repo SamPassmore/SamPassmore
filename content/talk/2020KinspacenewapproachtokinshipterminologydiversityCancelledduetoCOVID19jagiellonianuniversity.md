@@ -1,6 +1,6 @@
 +++
-title = "Testing the assumptions of kinship"
-date = "2017-09-12"  # Schedule page publish date.
+title = "Kinspace: new approach to kinship terminology diversity (Cancelled due to COVID-19)"
+date = "2020-04-01"  # Schedule page publish date.
 draft = false
            
 all_day = false
@@ -8,10 +8,10 @@ all_day = false
 authors = []
            
 # Name of event and optional event URL.
-event = "Cultural Evolution Society"
+event = "EHBEA"
            
 # Location of event.
-location = "Max Planck Institue for the Science of Human History"
+location = "Jagiellonian University"
            
 # Is this a featured talk? (true/false)
 featured = false

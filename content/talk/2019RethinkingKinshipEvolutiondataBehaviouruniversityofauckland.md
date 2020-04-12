@@ -8,7 +8,7 @@ all_day = false
 authors = []
            
 # Name of event and optional event URL.
-event = "Invited talk"
+event = "Invited"
            
 # Location of event.
 location = "University of Auckland"

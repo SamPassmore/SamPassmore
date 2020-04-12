@@ -11,7 +11,7 @@ authors = []
 event = "Departmental talk"
            
 # Location of event.
-location = "Max Planck Institute for the Science of Human History"
+location = "Max Planck Institue for the Science of Human History"
            
 # Is this a featured talk? (true/false)
 featured = false
